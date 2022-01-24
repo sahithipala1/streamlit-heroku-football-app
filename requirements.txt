@@ -1,0 +1,7 @@
+scikit-learn
+pillow
+pandas
+numpy
+streamlit
+matplot
+seaborn
