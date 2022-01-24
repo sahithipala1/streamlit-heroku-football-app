@@ -1,8 +1,9 @@
 scikit-learn
 pillow
-pandas
-numpy
-streamlit
+pandas~=1.3.5
+numpy~=1.17.4
+streamlit~=1.4.0
 matplot
-seaborn
+seaborn~=0.11.2
 lxml
+matplotlib~=3.5.1
